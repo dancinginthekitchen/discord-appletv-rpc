@@ -106,4 +106,4 @@ This is an unofficial hobby project. It is not affiliated with, endorsed by, or 
 
 ## License
 
-MIT. Add a `LICENSE` file if you publish this.
+ `LICENSE`
